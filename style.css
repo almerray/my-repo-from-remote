@@ -12,11 +12,12 @@ body {
 }
 
 #profile-image{
-    width: 100%
+    width: 100%;
     height: auto;
 }
 
 #profile-name{
     text-align: center;
-    text-anchor: magenta;
+    text-decoration-color: magenta;
+    text-shadow: 0.2px;   
 }
