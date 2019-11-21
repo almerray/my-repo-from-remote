@@ -8,7 +8,7 @@ body {
     max-width: auto;
     background-color: whitesmoke;
     border: 1px solid gray;
-    border-radius: 6pc;
+    border-radius: 6px;
 }
 
 #profile-image{
@@ -18,4 +18,5 @@ body {
 
 #profile-name{
     text-align: center;
+    text-anchor: magenta;
 }
